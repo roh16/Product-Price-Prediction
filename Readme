@@ -1,4 +1,4 @@
-Readme- Product price prediction
+Project Description
 
 
 This project aims at predicting price of over 6 million products.These predicted prices will be used as a recommendation by users for listing a product on the online platform. These prices are predicted using feature engineering and application of ML algorthims on the processed dataset.
