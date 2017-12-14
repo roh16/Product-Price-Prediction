@@ -1,5 +1,4 @@
 Readme- Product price prediction
 
 
-This project aims at predicting price that the user should be provided for the listing on the  based on the some historical attributes. 
-Key attributes include clategory of the prduct, product description,  
+This project aims at predicting price of over 6 million products that a user might use as a recommendation for the listing on an online platform. These prices are predicted using feature engineering and application of ML algorthims on the processed dataset.
