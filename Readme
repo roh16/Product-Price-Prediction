@@ -1,1 +1,5 @@
-This project is to predict the price that the user should be recommended based on the some historical attributes. Key attributes include clategory of the prduct, product description.
+Readme- Product price prediction
+
+
+This project aims at predicting price that the user should be provided for the listing on the  based on the some historical attributes. 
+Key attributes include clategory of the prduct, product description,  
